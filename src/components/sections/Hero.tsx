@@ -80,7 +80,7 @@ export const Hero = () => {
             <div className="relative w-48 h-48 md:w-64 md:h-64">
               <div className="absolute inset-0 rounded-full bg-gradient-to-r from-primary to-secondary opacity-20 blur-2xl animate-pulse"></div>
               <img
-                src="../../../public/Images/Portfolio Profile pic.jpg"
+                src="public/Images/Portfolio Profile pic.jpg"
                 alt="Profile"
                 className="relative w-full h-full rounded-full object-cover border-4 border-primary/30 shadow-2xl"
               />

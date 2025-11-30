@@ -7,24 +7,24 @@ const certificates = [
     issuer: "Certificate of Completion",
     date: "2020 - 2021",
     image:
-      "../../../public/Images/SAP pic.jpg",
-    file: "../../../public/Images/SAP.pdf",
+      "/Images/SAP pic.jpg",
+    file: "/Images/SAP.pdf",
   },
   {
     title: "Writeria Society, PMEC",
     issuer: "Certificate of Appreciation",
     date: "2023",
     image:
-      "../../../public/Images/Writeria pic.jpg",
-    file: "../../../public/Images/Writeria.png",
+      "/Images/Writeria pic.jpg",
+    file: "/Images/Writeria.png",
   },
   {
     title: "Amazon Web Services",
     issuer: "Certificate of Completion",
     date: "1/10/2022 - 30/11/2022",
     image:
-      "../../../public/Images/AWS pic.jpeg",
-    file: "../../../public/Images/AWS.jpg",
+      "/Images/AWS pic.jpeg",
+    file: "/Images/AWS.jpg",
 
   },
   {
@@ -33,7 +33,7 @@ const certificates = [
     date: "7/01/2022",
     image:
       "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?w=800&h=600&fit=crop",
-    file: "../../../public/Images/TCS.pdf",
+    file: "/Images/TCS.pdf",
   },
 ];
 
